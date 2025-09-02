@@ -44,35 +44,12 @@ jobs:
           fi
         done
     
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if [ -f "images.txt" ]; then
-          if git diff --quiet images.txt; then
-            echo "changes=false" >> $GITHUB_OUTPUT
-            echo "没有检测到 images.txt 的变化"
-          else
-            echo "changes=true" >> $GITHUB_OUTPUT
-            echo "检测到 images.txt 有变化"
-          fi
-        else
-          echo "changes=false" >> $GITHUB_OUTPUT
-          echo "未找到 images.txt 文件"
-        fi
-    
     - name: Commit and push changes
-      if: steps.check_changes.outputs.changes == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        
-        # 添加生成的文件
-        git add images.txt
-        
-        # 提交更改
+        git add .
         git commit -m "Auto-update images list - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        
-        # 推送到仓库
         git push
     
     - name: Upload artifact
@@ -83,21 +60,3 @@ jobs:
         path: images.txt
         retention-days: 30
     
-    - name: Summary
-      run: |
-        if [ -f "images.txt" ]; then
-          url_count=$(wc -l < images.txt)
-          echo "### 📊 执行结果" >> $GITHUB_STEP_SUMMARY
-          echo "- **生成的下载链接数量**: $url_count" >> $GITHUB_STEP_SUMMARY
-          echo "- **输出文件**: images.txt" >> $GITHUB_STEP_SUMMARY
-          echo "- **执行时间**: $(date)" >> $GITHUB_STEP_SUMMARY
-          
-          if [ $url_count -gt 0 ]; then
-            echo "- **状态**: ✅ 成功获取下载链接" >> $GITHUB_STEP_SUMMARY
-          else
-            echo "- **状态**: ⚠️ 未获取到下载链接" >> $GITHUB_STEP_SUMMARY
-          fi
-        else
-          echo "### ❌ 执行失败" >> $GITHUB_STEP_SUMMARY
-          echo "未生成 images.txt 文件" >> $GITHUB_STEP_SUMMARY
-        fi
