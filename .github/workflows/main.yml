@@ -1,5 +1,4 @@
 name: Update Images List
-
 on:
   # 定时执行 - 每天UTC时间0点执行
   schedule:
@@ -35,22 +34,22 @@ jobs:
     
     - name: Run image list script
       run: |
-        # 查找并执行bash脚本
-        for script in *.sh; do
-          if [ -f "$script" ]; then
-            echo "执行脚本: $script"
-            bash "$script"
-            break
-          fi
-        done
+        # 执行auto.sh脚本
+        if [ -f "auto.sh" ]; then
+          echo "执行脚本: auto.sh"
+          bash auto.sh
+        else
+          echo "未找到auto.sh脚本"
+          exit 1
+        fi
     
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Auto-update images list - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        git push
+        git commit -m "Auto-update images list - $(date +'%Y-%m-%d %H:%M:%S UTC')" || echo "没有变化需要提交"
+        git push || echo "推送失败或没有变化需要推送"
     
     - name: Upload artifact
       if: always()
@@ -59,4 +58,3 @@ jobs:
         name: images-list
         path: images.txt
         retention-days: 30
-    
