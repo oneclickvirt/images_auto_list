@@ -7,6 +7,7 @@ REPOS=(
     "oneclickvirt/lxd_images"
     "oneclickvirt/incus_images"
     "oneclickvirt/docker"
+    "oneclickvirt/pve_kvm_images"
 )
 
 # API端点列表
