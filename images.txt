@@ -278,6 +278,7 @@ https://github.com/oneclickvirt/lxd_images/releases/download/oracle/oracle_8_8_a
 https://github.com/oneclickvirt/lxd_images/releases/download/oracle/oracle_8_8_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/oracle/oracle_9_9_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/oracle/oracle_9_9_arm64_cloud.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/opensuse/opensuse_15.6_15.6_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/opensuse/opensuse_15.6_15.6_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/opensuse/opensuse_15.6_15.6_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/opensuse/opensuse_15.6_15.6_arm64_default.zip
