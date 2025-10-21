@@ -31,6 +31,8 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/open
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_15.5_15.5_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_15.6_15.6_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_15.6_15.6_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openeuler/openeuler_20.03_20.03_x86_64_cloud.tar.xz
