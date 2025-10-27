@@ -610,7 +610,6 @@ https://github.com/oneclickvirt/pve_kvm_images/releases/download/rockylinux/rock
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/rockylinux/rockylinux9.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/debian/debian11.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/debian/debian12.qcow2
-https://github.com/oneclickvirt/pve_kvm_images/releases/download/debian/debian13.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/alpine/alpine3.20.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/alpine/alpine3.21.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/alpine/alpine3.22.qcow2
