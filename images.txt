@@ -126,6 +126,14 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_12_bookworm_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_13_trixie_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_13_trixie_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_10_buster_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_10_buster_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_11_bullseye_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_11_bullseye_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_12_bookworm_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_12_bookworm_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_13_trixie_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_13_trixie_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_7_7_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_7_7_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_8_8-Stream_x86_64_cloud.tar.xz
