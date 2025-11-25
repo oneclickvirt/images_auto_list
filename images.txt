@@ -370,6 +370,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/archlinux_current_current_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/archlinux_current_current_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/archlinux_current_current_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/archlinux_current_current_x86_64_default_kvm.zip
