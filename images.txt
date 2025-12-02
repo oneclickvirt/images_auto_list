@@ -478,6 +478,8 @@ https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeul
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_25.03_25.03_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_25.03_25.03_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_25.03_25.03_x86_64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_25.09_25.09_arm64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_25.09_25.09_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/gentoo/gentoo_current_current_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/gentoo/gentoo_current_current_arm64_openrc.zip
 https://github.com/oneclickvirt/incus_images/releases/download/gentoo/gentoo_current_current_arm64_systemd.zip
