@@ -404,6 +404,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeu
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_24.03_24.03_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_25.03_25.03_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_25.03_25.03_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_25.09_25.09_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_25.09_25.09_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_15.5_15.5_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_15.5_15.5_arm64_default_kvm.zip
