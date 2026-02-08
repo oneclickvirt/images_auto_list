@@ -210,7 +210,6 @@ https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_1
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_12_bookworm_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_12_bookworm_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_12_bookworm_arm64_default_kvm.zip
-https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_13_trixie_amd64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_13_trixie_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_13_trixie_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/debian_13_trixie_arm64_default_kvm.zip
