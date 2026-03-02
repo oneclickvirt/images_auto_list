@@ -422,6 +422,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensu
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openwrt_24.10_24.10_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/oracle_8_8_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/oracle_8_8_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/oracle_9_9_arm64_cloud_kvm.zip
