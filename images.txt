@@ -15,6 +15,7 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/rockylinux/ro
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/rockylinux/rockylinux_9_9_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/rockylinux/rockylinux_9_9_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_8_8_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_9_9_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openwrt_21.02_21.02_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openwrt_21.02_21.02_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openwrt_22.03_22.03_x86_64_cloud.tar.xz
