@@ -252,6 +252,7 @@ https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_2
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_20.04_focal_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_20.04_focal_arm64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_22.04_jammy_amd64_cloud_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_22.04_jammy_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_22.04_jammy_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_22.04_jammy_arm64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_24.04_noble_amd64_cloud_kvm.zip
@@ -366,10 +367,12 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.20_3.20_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_arm64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.22_3.22_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.22_3.22_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.22_3.22_x86_64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.22_3.22_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_x86_64_cloud_kvm.zip
