@@ -7,6 +7,8 @@ REPOS=(
     "oneclickvirt/incus_images"
     "oneclickvirt/docker"
     "oneclickvirt/pve_kvm_images"
+    "oneclickvirt/containerd"
+    "oneclickvirt/podman"
 )
 
 API_ENDPOINTS=(
