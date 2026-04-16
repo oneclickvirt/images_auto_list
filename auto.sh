@@ -7,6 +7,7 @@ REPOS=(
     "oneclickvirt/incus_images"
     "oneclickvirt/docker"
     "oneclickvirt/pve_kvm_images"
+    "oneclickvirt/kvm_images"
     "oneclickvirt/containerd"
     "oneclickvirt/podman"
 )
