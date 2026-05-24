@@ -333,13 +333,11 @@ https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_41_41
 https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_41_41_arm64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_amd64_default.zip
-https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_arm64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_arm64_default.zip
-https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_arm64_default.zip
@@ -360,7 +358,6 @@ https://github.com/oneclickvirt/lxd_images/releases/download/alpine/alpine_3.21_
 https://github.com/oneclickvirt/lxd_images/releases/download/alpine/alpine_edge_edge_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/alpine/alpine_edge_edge_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_8_8_amd64_cloud.zip
-https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_8_8_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_8_8_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_8_8_arm64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_9_9_amd64_cloud.zip
