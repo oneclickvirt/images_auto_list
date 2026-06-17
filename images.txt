@@ -396,6 +396,10 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.23_3.23_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.24_3.24_arm64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.24_3.24_arm64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.24_3.24_x86_64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.24_3.24_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_edge_edge_x86_64_cloud_kvm.zip
@@ -617,6 +621,8 @@ https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.2
 https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.22_3.22_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.23_3.23_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.23_3.23_x86_64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.24_3.24_arm64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_3.24_3.24_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_edge_edge_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/alpine/alpine_edge_edge_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/almalinux/almalinux_10_10_arm64_cloud.zip
