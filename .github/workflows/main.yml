@@ -1,60 +1,62 @@
 name: Update Images List
+
 on:
-  # 定时执行 - 每天UTC时间0点执行
   schedule:
     - cron: '0 0 * * *'
-  
-  # 手动触发
   workflow_dispatch:
-  
-  # 当脚本文件更新时也执行
   push:
     paths:
       - '*.sh'
       - '.github/workflows/*.yml'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-images-list
+  cancel-in-progress: false
+
 jobs:
   update-images:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        # 需要写权限来推送更改
-        token: ${{ secrets.GITHUB_TOKEN }}
-    
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y curl jq
-    
-    - name: Make script executable
-      run: chmod +x *.sh
-    
-    - name: Run image list script
-      run: |
-        # 执行auto.sh脚本
-        if [ -f "auto.sh" ]; then
-          echo "执行脚本: auto.sh"
-          bash auto.sh
-        else
-          echo "未找到auto.sh脚本"
-          exit 1
-        fi
-    
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Auto-update images list - $(date +'%Y-%m-%d %H:%M:%S UTC')" || echo "没有变化需要提交"
-        git push || echo "推送失败或没有变化需要推送"
-    
-    - name: Upload artifact
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: images-list
-        path: images.txt
-        retention-days: 30
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq
+
+      - name: Validate script
+        run: bash -n auto.sh
+
+      - name: Generate image list
+        run: bash auto.sh
+
+      - name: Show image list summary
+        run: |
+          echo "Total entries: $(wc -l < images.txt)"
+          echo "Docker special runtime entries:"
+          grep '^docker://' images.txt || true
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add images.txt
+          if git diff --cached --quiet; then
+            echo "No image list changes to commit"
+          else
+            git commit -m "chore: update images list"
+            git push
+          fi
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: images-list
+          path: images.txt
+          retention-days: 30
