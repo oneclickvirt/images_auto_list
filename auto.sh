@@ -194,7 +194,10 @@ main() {
 
     local tmp_file
     tmp_file=$(mktemp)
-    trap 'rm -f "${tmp_file}"' EXIT
+    # Use double quotes so ${tmp_file} is expanded now (at trap-setup time),
+    # not later when the EXIT trap fires and the local variable is out of scope.
+    # shellcheck disable=SC2064
+    trap "rm -f '${tmp_file}'" EXIT
 
     local repo
     local failed_repos=0
