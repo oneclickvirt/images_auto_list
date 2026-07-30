@@ -330,7 +330,6 @@ https://github.com/oneclickvirt/incus_images/releases/download/openwrt/openwrt_s
 https://github.com/oneclickvirt/incus_images/releases/download/oracle/oracle_8_8_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/oracle/oracle_8_8_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/oracle/oracle_9_9_arm64_cloud.zip
-https://github.com/oneclickvirt/incus_images/releases/download/oracle/oracle_9_9_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/rockylinux/rockylinux_8_8_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/rockylinux/rockylinux_8_8_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/rockylinux/rockylinux_8_8_x86_64_cloud.zip
