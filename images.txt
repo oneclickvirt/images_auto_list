@@ -63,7 +63,6 @@ https://github.com/oneclickvirt/containerd/releases/download/openeuler/spiritlhl
 https://github.com/oneclickvirt/containerd/releases/download/openeuler/spiritlhl_openeuler_arm64.tar.gz
 https://github.com/oneclickvirt/containerd/releases/download/rockylinux/spiritlhl_rockylinux_amd64.tar.gz
 https://github.com/oneclickvirt/containerd/releases/download/rockylinux/spiritlhl_rockylinux_arm64.tar.gz
-https://github.com/oneclickvirt/containerd/releases/download/ubuntu/spiritlhl_ubuntu_amd64.tar.gz
 https://github.com/oneclickvirt/containerd/releases/download/ubuntu/spiritlhl_ubuntu_arm64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/almalinux/spiritlhl_almalinux_amd64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/almalinux/spiritlhl_almalinux_arm64.tar.gz
@@ -812,15 +811,4 @@ https://github.com/oneclickvirt/pve_kvm_images/releases/download/ubuntu/ubuntu18
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/ubuntu/ubuntu2004.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/ubuntu/ubuntu2204.qcow2
 https://github.com/oneclickvirt/pve_kvm_images/releases/download/ubuntu/ubuntu2404.qcow2
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86-9.0-r1.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86-9.0-r2.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86-9.0-rc1.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86-9.0-rc2.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-r1-k49.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-r1.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-r2-k49.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-r2.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-rc1.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-rc2-k49.iso
-https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/android-x86_64-9.0-rc2.iso
 https://sourceforge.net/projects/blissos-x86/files/Official/BlissOS15/Gapps/Generic/Bliss-v15.9.2-x86_64-OFFICIAL-gapps-20241012.iso/download
