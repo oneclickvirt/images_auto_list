@@ -408,7 +408,6 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_8_8-Stream_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_8_8-Stream_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_9_9-Stream_x86_64_cloud.tar.xz
-https://github.com/oneclickvirt/lxc_amd64_images/releases/download/centos/centos_9_9-Stream_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_10_buster_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_10_buster_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/debian/debian_11_bullseye_x86_64_cloud.tar.xz
