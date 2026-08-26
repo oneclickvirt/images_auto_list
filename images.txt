@@ -712,7 +712,6 @@ https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_2
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_24.04_noble_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_24.04_noble_arm64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_amd64_cloud.zip
-https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_arm64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/opensuse/opensuse_15.6_15.6_amd64_cloud.zip
