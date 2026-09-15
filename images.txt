@@ -187,6 +187,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.20_3.20_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.20_3.20_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_arm64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.21_3.21_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/alpine_3.22_3.22_arm64_cloud_kvm.zip
@@ -219,6 +220,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian_12_bookworm_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian_13_trixie_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian_13_trixie_arm64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian_13_trixie_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/debian_13_trixie_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_20.03_20.03_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/openeuler_20.03_20.03_x86_64_default_kvm.zip
@@ -353,6 +355,7 @@ https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_23.
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_23.04_lunar_x86_64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_23.10_mantic_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_23.10_mantic_x86_64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_24.04_noble_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_24.04_noble_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_24.04_noble_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_24.04_noble_x86_64_default.zip
@@ -476,6 +479,7 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_20.04_focal_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_20.04_focal_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_22.04_jammy_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_22.04_jammy_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_23.04_lunar_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_23.04_lunar_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_23.10_mantic_x86_64_cloud.tar.xz
@@ -599,9 +603,11 @@ https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bu
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_11_bullseye_arm64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_12_bookworm_arm64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/debian/debian_13_trixie_arm64_default.zip
