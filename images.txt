@@ -72,7 +72,6 @@ https://github.com/oneclickvirt/docker/releases/download/alpine/spiritlhl_alpine
 https://github.com/oneclickvirt/docker/releases/download/amd64_builder/builder.tar
 https://github.com/oneclickvirt/docker/releases/download/debian/spiritlhl_debian_amd64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/debian/spiritlhl_debian_arm64.tar.gz
-https://github.com/oneclickvirt/docker/releases/download/openeuler/spiritlhl_openeuler_amd64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/openeuler/spiritlhl_openeuler_arm64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/rockylinux/spiritlhl_rockylinux_amd64.tar.gz
 https://github.com/oneclickvirt/docker/releases/download/rockylinux/spiritlhl_rockylinux_arm64.tar.gz
