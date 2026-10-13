@@ -1,62 +1,58 @@
 name: Update Images List
-
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    paths:
-      - '*.sh'
-      - '.github/workflows/*.yml'
-
 permissions:
   contents: write
-
 concurrency:
   group: update-images-list
   cancel-in-progress: false
-
 jobs:
   update-images:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y curl jq
-
-      - name: Validate script
-        run: bash -n auto.sh
-
-      - name: Generate image list
-        run: bash auto.sh
-
-      - name: Show image list summary
-        run: |
-          echo "Total entries: $(wc -l < images.txt)"
-          echo "Docker special runtime entries:"
-          grep '^docker://' images.txt || true
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add images.txt
-          if git diff --cached --quiet; then
-            echo "No image list changes to commit"
-          else
-            git commit -m "chore: update images list"
-            git push
-          fi
-
-      - name: Upload artifact
-        if: always()
-        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
-        with:
-          name: images-list
-          path: images.txt
-          retention-days: 30
+    - name: Load trusted network recovery helpers
+      shell: bash
+      run: |
+        set -euo pipefail
+        curl --fail --silent --show-error --location --connect-timeout 15 --max-time 90 --retry 3 --retry-max-time 180 --retry-connrefused "https://raw.githubusercontent.com/oneclickvirt/images_auto_list/main/.github/scripts/ci_network.sh" -o "$RUNNER_TEMP/ci-network.sh"
+    - name: Checkout repository
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+    - name: Install dependencies
+      run: |
+        source "$RUNNER_TEMP/ci-network.sh"
+        sudo apt-get update
+        sudo apt-get install -y curl jq
+      shell: bash
+    - name: Validate script
+      run: bash -n auto.sh
+    - name: Generate image list
+      run: bash auto.sh
+    - name: Show image list summary
+      run: |
+        echo "Total entries: $(wc -l < images.txt)"
+        echo "Docker special runtime entries:"
+        grep '^docker://' images.txt || true
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add images.txt
+        if git diff --cached --quiet; then
+          echo "No image list changes to commit"
+        else
+          git commit -m "chore: update images list"
+          git push
+        fi
+    - name: Upload artifact
+      if: always()
+      uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+      with:
+        name: images-list
+        path: images.txt
+        retention-days: 30
+'on':
+  schedule:
+  - cron: 0 0 * * *
+  workflow_dispatch: null
+  push:
+    paths:
+    - '*.sh'
+    - .github/workflows/*.yml
