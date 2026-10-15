@@ -22,7 +22,9 @@ jobs:
         sudo apt-get install -y curl jq
       shell: bash
     - name: Validate script
-      run: bash -n auto.sh
+      run: |
+        bash -n auto.sh
+        bash tests/release_filter_test.sh
     - name: Generate image list
       run: bash auto.sh
     - name: Show image list summary

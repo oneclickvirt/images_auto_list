@@ -8,6 +8,7 @@ REPOS=(
     "oneclickvirt/incus_images"
     "oneclickvirt/docker"
     "oneclickvirt/pve_kvm_images"
+    "oneclickvirt/pve_lxc_images"
     "oneclickvirt/kvm_images"
     "oneclickvirt/containerd"
     "oneclickvirt/podman"
@@ -16,6 +17,7 @@ REPOS=(
 RAW_LIST_SOURCES=(
     "https://raw.githubusercontent.com/ILLKX/Windows/master/README.md"
     "https://raw.githubusercontent.com/ILLKX/Windows-VirtIO/master/README.md"
+    "https://sourceforge.net/projects/android-x86/rss?path=/Release%209.0"
     "https://raw.githubusercontent.com/oneclickvirt/pve/main/extra_scripts/configure_macos.sh"
     "https://raw.githubusercontent.com/oneclickvirt/pve/main/scripts/install_macos_images.sh"
 )
@@ -31,9 +33,9 @@ MACOS_INSTALLER_REFS=(
     "https://github.com/oneclickvirt/macos/releases/download/images/sequoia.iso.7z"
 )
 
-ANDROID_X86_DIRS=(
-    "https://mirrors.tuna.tsinghua.edu.cn/osdn/android-x86/71931/"
-)
+# The former OSDN mirror directory returns 404. Read the official SourceForge
+# release feed above instead of repeatedly querying the retired mirror.
+ANDROID_X86_DIRS=()
 
 BLISSOS_INSTALLER_REFS=(
     "https://sourceforge.net/projects/blissos-x86/files/Official/BlissOS15/Gapps/Generic/Bliss-v15.9.2-x86_64-OFFICIAL-gapps-20241012.iso/download"
@@ -118,7 +120,7 @@ emit_repo_download_urls() {
     while true; do
         local url="${api_base}/repos/${repo}/releases?per_page=100&page=${page}"
         local releases_data
-        if ! releases_data=$(curl -fsSL -H "User-Agent: ${USER_AGENT}" "$url"); then
+        if ! releases_data=$(curl -fsSL --connect-timeout 10 --max-time 45 --retry 2 -H "User-Agent: ${USER_AGENT}" "$url"); then
             log "WARN: failed to fetch releases for ${repo} from page ${page}"
             return 1
         fi
@@ -131,8 +133,11 @@ emit_repo_download_urls() {
 
         jq -r '
             .[] |
-            select(.tag_name != "processed" and .tag_name != null) |
+            select(.tag_name != "processed" and .tag_name != "legacy-archived" and .tag_name != null) |
+            select(.draft != true and .prerelease != true) |
             .assets[]? |
+            select(.state == "uploaded" and (.size // 0) > 0) |
+            select((.name // "" | test("\\.ci-(stage|backup)-")) | not) |
             .browser_download_url // empty
         ' <<<"${releases_data}" | while IFS= read -r download_url; do
             if [ -n "$download_url" ] && ! should_exclude_url "$download_url"; then
@@ -153,7 +158,7 @@ emit_urls_from_text_source() {
         return 1
     fi
 
-    grep -Eo '(https?://|download\.testip\.xyz/)[^[:space:]<>"'\''\)]*\.(iso|iso\.7z)(/download|\?[^[:space:]<>"'\''\)]*)?' <<<"${content}" |
+    { grep -Eo '(https?://|download\.testip\.xyz/)[^[:space:]<>"'\''\)]*\.(iso|iso\.7z)(/download|\?[^[:space:]<>"'\''\)]*)?' <<<"${content}" || [[ $? -eq 1 ]]; } |
         sed -E 's#^download\.testip\.xyz/#https://download.testip.xyz/#I'
 }
 
@@ -255,4 +260,6 @@ main() {
     log "Saved result to: ${OUTPUT_FILE}"
 }
 
-main "$@"
+if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
+    main "$@"
+fi
