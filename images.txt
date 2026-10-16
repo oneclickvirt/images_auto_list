@@ -566,7 +566,6 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openw
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openwrt_snapshot_snapshot_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_10_10_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_10_10_x86_64_default.tar.xz
-https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_8_8_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_8_8_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_9_9_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/oracle/oracle_9_9_x86_64_default.tar.xz
