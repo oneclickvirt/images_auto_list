@@ -592,6 +592,8 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_25.10_questing_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_26.04_resolute_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_26.04_resolute_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_stonking_stonking_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/ubuntu/ubuntu_stonking_stonking_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/almalinux/almalinux_10_10_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/almalinux/almalinux_10_10_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/almalinux/almalinux_8_8_arm64_cloud.tar.xz
@@ -701,6 +703,8 @@ https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_2
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_24.04_noble_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_26.04_resolute_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_26.04_resolute_arm64_default.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_10_10_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_10_10_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/almalinux/almalinux_10_10_arm64_cloud.zip
@@ -933,6 +937,8 @@ https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_2
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_26.04_resolute_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_26.04_resolute_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_26.04_resolute_arm64_default_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_stonking_stonking_amd64_cloud_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/ubuntu_stonking_stonking_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/openeuler/openeuler_24.03_24.03_arm64_cloud.zip
@@ -997,6 +1003,10 @@ https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_26.04
 https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_26.04_resolute_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_26.04_resolute_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_26.04_resolute_arm64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_stonking_stonking_amd64_cloud.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_stonking_stonking_amd64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_cloud.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_default.zip
 https://github.com/oneclickvirt/macos/raw/refs/heads/main/EFI/opencore.iso
 https://github.com/oneclickvirt/macos/releases/download/images/big-sur.iso.7z
 https://github.com/oneclickvirt/macos/releases/download/images/catalina.iso.7z
