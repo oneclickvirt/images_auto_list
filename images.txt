@@ -337,6 +337,8 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu_26.04_resolute_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu_26.04_resolute_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu_26.04_resolute_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu_stonking_stonking_x86_64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/ubuntu_stonking_stonking_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_20.03_20.03_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_20.03_20.03_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/openeuler/openeuler_20.03_20.03_x86_64_cloud.zip
@@ -441,6 +443,10 @@ https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_26.
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_26.04_resolute_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_26.04_resolute_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_26.04_resolute_x86_64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_stonking_stonking_arm64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_stonking_stonking_x86_64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/ubuntu/ubuntu_stonking_stonking_x86_64_default.zip
 https://github.com/oneclickvirt/kvm_images/releases/download/v1.0/almalinux8.qcow2
 https://github.com/oneclickvirt/kvm_images/releases/download/v1.0/archlinux.qcow2
 https://github.com/oneclickvirt/kvm_images/releases/download/v1.0/debian10.qcow2
