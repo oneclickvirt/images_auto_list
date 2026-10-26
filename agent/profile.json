@@ -1,0 +1,19 @@
+{
+  "repository": "oneclickvirt/images_auto_list",
+  "branch": "main",
+  "skill_name": "oneclickvirt-images-auto-list",
+  "purpose": "Generate and verify OneClickVirt's public image seed catalogue.",
+  "notes": [
+    "Inspect auto.sh and its release filtering before changing images.txt. Preserve OS tag and architecture distinctions and retain the existing validation/filter tests."
+  ],
+  "guide": "https://www.spiritlhl.net/guide/agent_integrations.html",
+  "releases": false,
+  "mcp": false,
+  "source_files": [
+    "auto.sh"
+  ],
+  "purpose_zh": "生成和校验 OneClickVirt 公开镜像种子目录。",
+  "notes_zh": [
+    "修改 images.txt 前核对 auto.sh 及其 Release 过滤逻辑，保留系统标签和架构区分，并运行现有过滤测试。"
+  ]
+}

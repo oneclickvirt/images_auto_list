@@ -1,0 +1,10 @@
+{
+  "repository": "oneclickvirt/images_auto_list",
+  "skill_name": "oneclickvirt-images-auto-list",
+  "mcp": false,
+  "files": {
+    "agent/profile.json": "4cb4ac39cea4e402a7f365c2391bd74d732f9087aabf0cfeb201370d8933111e",
+    "skills/oneclickvirt-images-auto-list/SKILL.md": "af4f92d889a1164f8040390080a289a5f57de8284244b0f30982ab15e72afeb3",
+    "skills/oneclickvirt-images-auto-list/SKILL_ZH.md": "27925fb0fde0113a5324da0eb8adc90269d7fc64881c9ca37a5ab36efc29427b"
+  }
+}
