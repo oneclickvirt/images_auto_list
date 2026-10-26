@@ -1200,6 +1200,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gent
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261019_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_arm64_default_20261025_arm64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261019_amd64.tar.zst
