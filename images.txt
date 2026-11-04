@@ -526,6 +526,8 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora_43_43_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora_44_44_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora_44_44_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora_45_45_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/fedora/fedora_45_45_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/gentoo/gentoo_current_current_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/gentoo/gentoo_current_current_x86_64_openrc.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/gentoo/gentoo_current_current_x86_64_systemd.tar.xz
