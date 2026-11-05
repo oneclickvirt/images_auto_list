@@ -652,6 +652,8 @@ https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_4
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_43_43_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_44_44_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_44_44_arm64_default.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_45_45_arm64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/fedora/fedora_45_45_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/gentoo/gentoo_current_current_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/gentoo/gentoo_current_current_arm64_openrc.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/gentoo/gentoo_current_current_arm64_systemd.tar.xz
@@ -791,6 +793,10 @@ https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_44_44
 https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_44_44_amd64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_44_44_arm64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_44_44_arm64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_45_45_amd64_cloud.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_45_45_amd64_default.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_45_45_arm64_cloud.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/fedora/fedora_45_45_arm64_default.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/gentoo/gentoo_current_current_amd64_cloud.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/gentoo/gentoo_current_current_amd64_openrc.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/gentoo/gentoo_current_current_amd64_systemd.zip
@@ -881,6 +887,10 @@ https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_4
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_44_44_amd64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_44_44_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_44_44_arm64_default_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_45_45_amd64_cloud_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_45_45_amd64_default_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_45_45_arm64_cloud_kvm.zip
+https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/fedora_45_45_arm64_default_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/gentoo_current_current_amd64_cloud_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/gentoo_current_current_amd64_openrc_kvm.zip
 https://github.com/oneclickvirt/lxd_images/releases/download/kvm_images/gentoo_current_current_amd64_systemd_kvm.zip
