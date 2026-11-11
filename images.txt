@@ -565,6 +565,8 @@ https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/open
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_15.6_15.6_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_default.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.1_16.1_x86_64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_16.1_16.1_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_x86_64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_x86_64_default.tar.xz
 https://github.com/oneclickvirt/lxc_amd64_images/releases/download/openwrt/openwrt_21.02_21.02_x86_64_cloud.tar.xz
@@ -687,6 +689,8 @@ https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensu
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_15.6_15.6_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_16.0_16.0_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_16.0_16.0_arm64_default.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_16.1_16.1_arm64_cloud.tar.xz
+https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_16.1_16.1_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_arm64_cloud.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_arm64_default.tar.xz
 https://github.com/oneclickvirt/lxc_arm_images/releases/download/openwrt/openwrt_23.05_23.05_arm64_cloud.tar.xz
