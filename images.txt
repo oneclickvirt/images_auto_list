@@ -302,6 +302,10 @@ https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensu
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.0_16.0_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.0_16.0_x86_64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.0_16.0_x86_64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.1_16.1_arm64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.1_16.1_arm64_default_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.1_16.1_x86_64_cloud_kvm.zip
+https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_16.1_16.1_x86_64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_arm64_cloud_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_arm64_default_kvm.zip
 https://github.com/oneclickvirt/incus_images/releases/download/kvm_images/opensuse_tumbleweed_tumbleweed_x86_64_cloud_kvm.zip
@@ -389,6 +393,10 @@ https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.0_16.0_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.0_16.0_x86_64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.1_16.1_arm64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.1_16.1_arm64_default.zip
+https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.1_16.1_x86_64_cloud.zip
+https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_16.1_16.1_x86_64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_arm64_cloud.zip
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_arm64_default.zip
 https://github.com/oneclickvirt/incus_images/releases/download/opensuse/opensuse_tumbleweed_tumbleweed_x86_64_cloud.zip
