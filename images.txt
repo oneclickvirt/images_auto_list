@@ -1190,6 +1190,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alma
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_10_10_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_10_10_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_10_10_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_10_10_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261019_amd64.tar.zst
@@ -1197,12 +1198,14 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alma
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_8_8_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261019_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261025_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261108_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/almalinux_9_9_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.21_3.21_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.21_3.21_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.21_3.21_x86_64_default_20261019_amd64.tar.zst
@@ -1216,6 +1219,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpi
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.22_3.22_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.22_3.22_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.22_3.22_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.22_3.22_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261019_amd64.tar.zst
@@ -1223,6 +1227,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpi
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.23_3.23_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261019_amd64.tar.zst
@@ -1230,6 +1235,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpi
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/alpine_3.24_3.24_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/archlinux_current_current_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/archlinux_current_current_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/archlinux_current_current_x86_64_default_20261019_amd64.tar.zst
@@ -1258,6 +1264,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debi
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_12_bookworm_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_12_bookworm_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_12_bookworm_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_12_bookworm_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261015_amd64.tar.zst
@@ -1266,6 +1273,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debi
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/debian_13_trixie_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261019_amd64.tar.zst
@@ -1273,6 +1281,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedo
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_43_43_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261019_amd64.tar.zst
@@ -1280,8 +1289,10 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedo
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_44_44_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_45_45_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_45_45_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/fedora_45_45_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261019_amd64.tar.zst
@@ -1289,6 +1300,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gent
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/gentoo_current_current_x86_64_openrc_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261019_amd64.tar.zst
@@ -1296,6 +1308,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/kali_latest_kali-rolling_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_arm64_default_20261025_arm64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261015_amd64.tar.zst
@@ -1304,19 +1317,23 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/open
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openeuler_24.03_24.03_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261019_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261025_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.0_16.0_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.1_16.1_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_16.1_16.1_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261019_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261025_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/opensuse_tumbleweed_tumbleweed_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261019_amd64.tar.zst
@@ -1324,6 +1341,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/open
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_amd64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/openwrt_25.12_25.12_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261015_amd64.tar.zst
@@ -1332,12 +1350,14 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/orac
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_10_10_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261019_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261025_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_8_8_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261019_amd64.tar.zst
@@ -1345,6 +1365,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/orac
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/oracle_9_9_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261019_amd64.tar.zst
@@ -1352,6 +1373,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rock
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_10_10_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261012_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261015_amd64.tar.zst
@@ -1360,6 +1382,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rock
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_8_8_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261013_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261015_amd64.tar.zst
@@ -1368,6 +1391,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rock
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/rockylinux_9_9_x86_64_default_20261118_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261019_amd64.tar.zst
@@ -1375,6 +1399,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubun
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_22.04_jammy_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261019_amd64.tar.zst
@@ -1382,6 +1407,7 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubun
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_24.04_noble_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261014_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261015_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261019_amd64.tar.zst
@@ -1389,10 +1415,12 @@ https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubun
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_26.04_resolute_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_stonking_stonking_x86_64_default_20261025_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_stonking_stonking_x86_64_default_20261101_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_stonking_stonking_x86_64_default_20261108_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_stonking_stonking_x86_64_default_20261115_amd64.tar.zst
+https://github.com/oneclickvirt/pve_lxc_images/releases/download/maintained/ubuntu_stonking_stonking_x86_64_default_20261122_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/opensuse/opensuse-15.0-default_20180907_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/opensuse/opensuse-15.1-default_20190719_amd64.tar.zst
 https://github.com/oneclickvirt/pve_lxc_images/releases/download/opensuse/opensuse-15.2-default_20200824_amd64.tar.zst
